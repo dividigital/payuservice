@@ -1,10 +1,12 @@
 # payuservice
 
-A new Flutter project.
+Earn money by adding members & recharges.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is made using Flutter.
+
+Copuright 2023 | This Source code is property of Pay U Service
 
 A few resources to get you started if this is your first Flutter project:
 
